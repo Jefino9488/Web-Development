@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+  }
+  
+  #greetingBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
